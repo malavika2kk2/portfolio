@@ -16,8 +16,7 @@ The site is designed to showcase projects, resume, and contact details with a cl
 
 ## ✨ Features
 - Fixed navigation bar for easy access  
-- Aqua hover effects for modern look  
-- Pink–purple gradient footer section  
+- Aqua hover effects for modern look   
 - Responsive design (works on all devices)  
 - Resume preview section  
 - Contact form layout (UI only)  
