@@ -10,7 +10,7 @@ The site is designed to showcase projects, resume, and contact details with a cl
 
 ## 🖥️ Live Demo  
 [🔗 View Portfolio]( https://malavika2kk2.github.io/portfolio/)  
-*(Add your GitHub Pages link here once you deploy, e.g. `https://username.github.io/portfolio/`)*
+
 
 ---
 
@@ -32,8 +32,4 @@ The site is designed to showcase projects, resume, and contact details with a cl
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/portfolio.git
